@@ -1,0 +1,11 @@
+.Hello{
+    color: red;
+    font-size: 200%;
+
+    width: 600px;
+    margin-left: auto;
+}
+img{
+    width: 110%;
+    height: 110%;
+}
